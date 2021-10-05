@@ -2,7 +2,7 @@
 A simple Whack A Mole game using JavaScript
 
 
-Live Demo: https://whack-that-mole.netlify.app
+Whack the mole here: https://whack-that-mole.netlify.app
 
 
 ## Rules of WHACK-A-MOLE
